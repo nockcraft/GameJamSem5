@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tilemap_KaputteEndWande_0: 8068780110387415391
+      Tilemap_KaputteEndWande_1: -5794167338393464275
+      Tilemap_KaputteEndWande_2: 2126649722131527041
+      Tilemap_KaputteEndWande_3: -2674665326045265962
+      Tilemap_KaputteEndWande_4: -2977217022316797260
+      Tilemap_KaputteEndWande_5: 5391029339107975835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
